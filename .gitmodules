@@ -3,4 +3,4 @@
 	url = https://github.com/LinMarc1210/CSIE-Project-FireDT.git
 [submodule "Battle_City"]
 	path = Battle_City
-	url = git@github.com:ShunyaKozuma/Battle_City.git
+	url = https://github.com/ShunyaKozuma/Battle_City.git
